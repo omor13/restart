@@ -1,2 +1,3 @@
-name = "fadiiiiiiiii"
+name = "ali"
 print("Hello",name)
+print("-----------")
